@@ -3,7 +3,7 @@
     {
       "name": "General Test for grading",
       "setup": "",
-      "run": "make test",
+      "run": "make clean test",
       "input": "",
       "output": "",
       "comparison": "included",
